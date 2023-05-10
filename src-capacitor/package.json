@@ -1,0 +1,12 @@
+{
+  "name": "daily",
+  "version": "0.0.1",
+  "description": "chat video app ",
+  "author": "Prince Julien <prince@sowellapp.com>",
+  "private": true,
+  "dependencies": {
+    "@capacitor/android": "2.5.0",
+    "@capacitor/cli": "^2.0.0",
+    "@capacitor/core": "^2.0.0"
+  }
+}

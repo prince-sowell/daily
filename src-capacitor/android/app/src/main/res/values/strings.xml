@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">daily</string>
+    <string name="title_activity_main">daily</string>
+    <string name="package_name">demo.daily.prince</string>
+    <string name="custom_url_scheme">demo.daily.prince</string>
+</resources>

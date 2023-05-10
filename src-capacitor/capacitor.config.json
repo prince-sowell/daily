@@ -1,0 +1,7 @@
+{
+  "appId": "demo.daily.prince",
+  "appName": "daily",
+  "bundledWebRuntime": false,
+  "npmClient": "yarn",
+  "webDir": "www"
+}
